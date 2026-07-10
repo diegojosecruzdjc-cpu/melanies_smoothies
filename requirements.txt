@@ -9,3 +9,4 @@ pyarrow==14.0.2
 
 setuptools==68.0.0
 requests
+pandas
